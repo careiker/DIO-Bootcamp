@@ -7,3 +7,4 @@ git .. - retorna uma pasta
 	## para fazer um commit
 git add *     >>    git commit -m "mensagem ou descrição"
 	## Para fazer um push
+git push origin main/master
