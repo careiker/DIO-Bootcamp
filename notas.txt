@@ -1,0 +1,3 @@
+git mkdir - cria uma nova pasta
+git cd path/ - percorre pasta
+git .. - retorna uma pasta
