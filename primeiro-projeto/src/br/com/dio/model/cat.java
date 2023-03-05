@@ -62,13 +62,5 @@ public class cat {
 		return "cat [nome=" + nome + ", cor=" + cor + ", idade=" + idade + "]";
 	}
 	
-
-	/*
-	public gato(String nome, String cor, Integer idade) {
-		this.nome = nome;
-		this.cor = cor;
-		this.idade = idade;
-	}
-	*/
 	 
 }
