@@ -8,7 +8,7 @@ public class TiposVariaveis {
         System.out.println(numero);
         System.out.println(PI);*/
 
-        int number = 5;
+        //int number = 5;
         
         /*number = - number;//adicionar o sinal - torna o int negativo
         number = number * -1;// torna positivo novamente
@@ -18,5 +18,10 @@ public class TiposVariaveis {
         System.out.println(number);*/
         //System.out.println(++ number); // outra forma de incremento +1
         
+        //boolean var = true;
+        /*System.out.println(!var); // sinal ! torna a variavel False, mas não altera na memória*/
+        /*var = !var;//converte definitivamente na memória
+        System.out.println(var);*/
+
     }
 }
