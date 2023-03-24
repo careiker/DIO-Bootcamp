@@ -11,7 +11,7 @@ public class TiposVariaveis {
         int number = 5;
 
         number = - number;//adicionar o sinal - torna o int negativo
-        number = + number;// adicionar sinal + torna positivo novamente
+        number = number * -1;// torna positivo novamente
 
         System.out.println(number);
     }
