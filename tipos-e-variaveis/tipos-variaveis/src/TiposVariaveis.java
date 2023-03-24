@@ -23,13 +23,11 @@ public class TiposVariaveis {
         /*var = !var;//converte definitivamente na memória
         System.out.println(var);*/
 
-        int a, b;
-
+        //Ternários
+        
+        /*int a, b;
         a = 6;
-        b = 6;
-
-        String resultado = a==b ? "verdadeiro" : "falso";
-        System.out.println(resultado);
+        b = 6;*/
 
         /*if(a==b) {
             resultado = "verdadeiro";
@@ -37,6 +35,10 @@ public class TiposVariaveis {
             resultado = "Falso";
         }
         System.out.println(resultado);*/
+
+        /*String resultado = a==b ? "verdadeiro" : "falso";
+        System.out.println(resultado);*/
+
 
     }
 }
