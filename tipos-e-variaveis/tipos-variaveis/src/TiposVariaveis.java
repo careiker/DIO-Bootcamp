@@ -25,18 +25,18 @@ public class TiposVariaveis {
 
         int a, b;
 
-        a = 5;
+        a = 6;
         b = 6;
 
-        String resultado = "";
+        String resultado = a==b ? "verdadeiro" : "falso";
+        System.out.println(resultado);
 
-        if(a==b) {
+        /*if(a==b) {
             resultado = "verdadeiro";
         }else{
             resultado = "Falso";
         }
-
-        System.out.println(resultado);
+        System.out.println(resultado);*/
 
     }
 }
