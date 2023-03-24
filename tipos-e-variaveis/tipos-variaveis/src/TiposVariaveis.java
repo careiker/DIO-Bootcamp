@@ -9,10 +9,14 @@ public class TiposVariaveis {
         System.out.println(PI);*/
 
         int number = 5;
-
-        number = - number;//adicionar o sinal - torna o int negativo
+        
+        /*number = - number;//adicionar o sinal - torna o int negativo
         number = number * -1;// torna positivo novamente
 
-        System.out.println(number);
+        System.out.println(number);*/
+        /*number++; //faz incremento de +1
+        System.out.println(number);*/
+        //System.out.println(++ number); // outra forma de incremento +1
+        
     }
 }
