@@ -23,5 +23,20 @@ public class TiposVariaveis {
         /*var = !var;//converte definitivamente na memória
         System.out.println(var);*/
 
+        int a, b;
+
+        a = 5;
+        b = 6;
+
+        String resultado = "";
+
+        if(a==b) {
+            resultado = "verdadeiro";
+        }else{
+            resultado = "Falso";
+        }
+
+        System.out.println(resultado);
+
     }
 }
